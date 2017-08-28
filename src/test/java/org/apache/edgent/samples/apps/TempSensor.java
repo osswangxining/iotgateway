@@ -1,4 +1,4 @@
-package org.iotp.gateway.edgent;
+package org.apache.edgent.samples.apps;
 
 import java.util.Random;
 
